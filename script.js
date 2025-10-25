@@ -3,7 +3,7 @@ const CONFIG = {
     API_KEY: '24af1f4748f83088dbcd8aaf41688ce5', // Get your free API key from https://openweathermap.org/api
     API_BASE_URL: 'https://api.openweathermap.org/data/2.5',
     DEFAULT_CITY: 'New York',
-    UNITS: 'metric' // Use 'metric' for Celsius, 'imperial' for Fahrenheit
+    UNITS: 'metric'   // Use 'metric' for Celsius, 'imperial' for Fahrenheit
 };
 
 // DOM Elements
