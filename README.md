@@ -2,6 +2,14 @@
 
 A modern, responsive weather application that displays real-time weather information based on user location. Features a beautiful glassmorphism design with gradient backgrounds and smooth animations.
 
+## 🌐 Live Demo
+
+**🚀 [View Live Application](https://weather-app-repo-tan.vercel.app)**
+
+Try it out now! Click the link above to see the weather app in action.
+
+---
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
